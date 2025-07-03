@@ -1,2 +1,2 @@
 # curation
-This is a repository for curation project software.
+This is a repository for curation project softwares.
