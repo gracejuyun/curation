@@ -1,2 +1,2 @@
 # curation
-Softwares from big data curation project
+Curation project softwares
